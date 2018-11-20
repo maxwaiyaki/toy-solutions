@@ -4,6 +4,8 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
+![Icon Preview](http://i.imgur.com/XmZW2q3.png)
+
 ### Author 👨🏾
  **Maxwell Waiyaki** 
 
